@@ -1,4 +1,4 @@
-# darkroom
+# Darkroom
 
 An empty repository reserved for future use.
 
