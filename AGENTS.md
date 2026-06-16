@@ -30,4 +30,4 @@ Currently empty. No files or directories.
 - Require signed commits
 - Squash+rebase merge only
 
-*Awaiting purpose*
+*Awaiting purpose. Always use worktrees when making changes.*
